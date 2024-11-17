@@ -11,4 +11,4 @@ A Product Manager (PM) has requested assistance in analyzing sales performance. 
 5. Track spending on discounts.
 6. Provide transaction summaries for each product and customer.
 
-To view the project in Looker Studio: https://lookerstudio.google.com/s/hbfHZeJuOD8
+To view the project in Looker Studio: https://lookerstudio.google.com/s/jieXApYi6Ag
